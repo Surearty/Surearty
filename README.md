@@ -28,7 +28,19 @@
 </h1>
 
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Metrixim)](https://github.com/Surearty/github-readme)
+
+---
+<h2>
+:technologist: About Me:
+ </h2>
+<ul>
+  <li>"Master of Computer Science"</li>
+  <li>"Graduate of Ecole 42 in Paris"</li>
+  </ul>
+
+
 </div>
+
 
 <!--
 **Surearty/Surearty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
