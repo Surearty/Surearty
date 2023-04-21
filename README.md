@@ -36,8 +36,9 @@
 :technologist: About Me:
  </h2>
 
-  "Master of Computer Science"
-  "Graduate of Ecole 42 in Paris"
+  <h5>Master of Computer Science</h5>
+  <h5>Graduate of Ecole 42 in Paris</h5>
+  <h5>I'm interested in biohacking and love motorcycle racing.</h5>
 
 
 <!--
