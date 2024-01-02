@@ -21,7 +21,7 @@
 <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  My name is Oleg Werner, i'm a backend and mobile developer.
+  My name is Oleg Verner, i'm a backend and mobile developer.
   <img src="https://media.giphy.com/media/tV5qjZsXMS4ReNCnY2/giphy.gif" width="20px"/>
 </h1>
 
