@@ -29,7 +29,7 @@
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4249922" style='border:none;'></iframe>
 </div>
 ---
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4249922" style='border:none;'></iframe>
 <h2>
 :technologist: About Me:
  </h2>
