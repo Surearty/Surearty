@@ -25,11 +25,9 @@
   <img src="https://media.giphy.com/media/tV5qjZsXMS4ReNCnY2/giphy.gif" width="20px"/>
 </h1>
 
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Metrixim)](https://github.com/Surearty/github-readme)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4249922" style='border:none;'></iframe>
 </div>
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4249922" style='border:none;'></iframe>
+
 <h2>
 :technologist: About Me:
  </h2>
