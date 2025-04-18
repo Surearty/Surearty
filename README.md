@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/XHFmDF04QhC3VoZ2Aq/giphy.gif" width="120"/>
 
-# Oleg Verner — AI & Backend Architect 🧠
+# Surearty — AI & Backend Architect 🧠
 
 **Python · Go · Anti-Fraud Platforms · Automation · MMA · Biohacking**
 
